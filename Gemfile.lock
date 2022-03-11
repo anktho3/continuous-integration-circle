@@ -1,3 +1,4 @@
+@@ -1,158 +1,165 @@
 GEM
   remote: https://rubygems.org/
   specs:
@@ -163,9 +164,7 @@ GEM
     jekyll-theme-architect (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
-    jekyll-theme-cayman (0.1.1)
-      jekyll (~> 3.5)
-      jekyll-seo-tag (~> 2.0)
+@@ -162,8 +169,8 @@ GEM
     jekyll-theme-dinky (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -174,16 +173,7 @@ GEM
       jekyll-seo-tag (~> 2.0)
     jekyll-theme-leap-day (0.1.1)
       jekyll (~> 3.5)
-      jekyll-seo-tag (~> 2.0)
-    jekyll-theme-merlot (0.1.1)
-      jekyll (~> 3.5)
-      jekyll-seo-tag (~> 2.0)
-    jekyll-theme-midnight (0.1.1)
-      jekyll (~> 3.5)
-      jekyll-seo-tag (~> 2.0)
-    jekyll-theme-minimal (0.1.1)
-      jekyll (~> 3.5)
-      jekyll-seo-tag (~> 2.0)
+@@ -180,8 +187,8 @@ GEM
     jekyll-theme-modernist (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -192,11 +182,7 @@ GEM
       jekyll-github-metadata (~> 2.9)
       jekyll-seo-tag (~> 2.0)
     jekyll-theme-slate (0.1.1)
-      jekyll (~> 3.5)
-      jekyll-seo-tag (~> 2.0)
-    jekyll-theme-tactile (0.1.1)
-      jekyll (~> 3.5)
-      jekyll-seo-tag (~> 2.0)
+@@ -193,72 +200,87 @@ GEM
     jekyll-theme-time-machine (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
